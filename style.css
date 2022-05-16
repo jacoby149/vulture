@@ -1,0 +1,30 @@
+html{
+    background-color:#000000;
+    color:lightgreen;
+    font-family: monospace;
+  }
+  
+.main{
+    margin:20px;
+}
+
+a:link {
+    color:gold;
+}
+
+a:visited {
+    color: purple;
+}
+
+button {
+    background-color: crimson;
+    color:lightgreen;
+}
+
+button:hover{
+    background-color:red;
+}
+
+button:active{
+    background-color:white;
+}
